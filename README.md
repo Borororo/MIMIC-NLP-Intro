@@ -55,8 +55,12 @@
 | 序号 | 标题                                                         | 大致内容 |
 | ---- | ------------------------------------------------------------ | -------- |
 | 1    | CoRelation: Boosting Automatic ICD Coding Through Contextualized Code Relation Learning |          |
-| 2    |                                                              |          |
-| 3    |                                                              |          |
+| 2    | A Two-Stage Decoder for Efficient ICD Coding                 |          |
+| 3    | Multi-Label Few-Shot ICD Coding as Autoregressive Generation with Prompt |          |
+| 4    | Towards Semi-Structured Automatic ICD Coding via Tree-based Contrastive Learning |          |
+| 5    | A Unified Review of Deep Learning for Automated Medical Coding |          |
+| 6    | Automated Medical Coding on MIMIC-III and MIMIC-IV: A Critical Review and Replicability Study |          |
+| 7    | Knowledge Injected Prompt Based Fine-tuning for Multi-label Few-shot ICD Coding |          |
 
 
 
